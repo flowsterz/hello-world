@@ -1,2 +1,2 @@
 # hello-world
-my first project
+coding made me happy!
